@@ -1,0 +1,9 @@
+{
+	"prefix": "!",
+	"server": {
+		"port": 3000
+	},
+	"startTime": 15,
+	"chooseTimeout": 15,
+	"timeBetweenRounds": 10
+}
